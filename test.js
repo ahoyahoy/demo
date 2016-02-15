@@ -1,4 +1,4 @@
-ahoy{
+export default {
   "components": {
     "accountsList": {
       "moreButton": "Zobrazit všechny účty"
@@ -802,4 +802,4 @@ ahoy{
     "notificationsTest": "Test",
     "refresh": "Automatická aktualizace"
   }
-}
+};
